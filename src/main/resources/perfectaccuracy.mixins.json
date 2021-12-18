@@ -3,6 +3,7 @@
 	"minVersion": "0.8",
 	"package": "fourmisain.perfectaccuracy.mixin",
 	"compatibilityLevel": "JAVA_8",
+	"refmap": "perfectaccuracy.refmap.json",
 	"mixins": [
 		"BowItemMixin",
 		"CrossbowItemMixin",

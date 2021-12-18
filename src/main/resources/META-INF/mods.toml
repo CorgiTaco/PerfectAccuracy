@@ -1,0 +1,21 @@
+modLoader = "javafml"
+loaderVersion = "[33,)"
+license = "MIT"
+issueTrackerURL = "https://github.com/Fourmisain/PerfectAccuracy/issues"
+[[mods]]
+modId = "perfectaccuracy"
+version = "1.0"
+displayName = "Perfect Accuracy"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/perfect-accuracy"
+logoFile = "icon.png"
+credits = "Corgi Taco - Forge Port"
+authors = "Fourmisain"
+description = '''
+Removes any inaccuracy from projectiles shot / thrown by players, so you can only blame yourself.
+'''
+[[dependencies.perfectaccuracy]]
+modId = "forge"
+mandatory = true
+versionRange = "[33.0.0,)"
+ordering = "NONE"
+side = "BOTH"

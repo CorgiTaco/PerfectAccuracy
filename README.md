@@ -1,6 +1,6 @@
 # Perfect Accuracy
 
-A Fabric Minecraft mod that removes any inaccuracy from projectiles shot/thrown by players, so you can only blame yourself.
+A forge port of a Fabric Minecraft mod that removes any inaccuracy from projectiles shot/thrown by players, so you can only blame yourself.
 
 Applies to Bows, Crossbows, Ender Pearls, Tridents, Fishing Rods, Snowballs, Eggs and Splash Potions.
 
